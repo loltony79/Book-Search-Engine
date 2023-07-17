@@ -1,7 +1,7 @@
 # Project Name: Book Search Engine
 
 ## Description
-This app is a conversion from express to graphql, I would like you to know in advance that this assignment might not function fully, as there is some errors in the client pages that I can't resolve. 
+This app is a conversion from express to graphql, I would like yo uto know that this assignment isn't deployed 
 
 ## Installation 
 npm run install
@@ -9,7 +9,11 @@ npm run build
 npm run develop
 
 ## Usage 
-We take the starter code with a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. The server side is working, but the client side has errors.
+
+This is a book search engine app that seeds the data through an api, it's got a save function and login for users.
+
+## Screenshot
+![Alt text](book.png)
 
 ## Credits 
 Tony Liu
@@ -45,7 +49,5 @@ SOFTWARE.
 
 https://github.com/loltony79/Book-Search-Engine
 ## DEPLOY
-https://still-journey-11550-bb00a15f3be9.herokuapp.com/ 
-
 
 
