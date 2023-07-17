@@ -12,6 +12,7 @@ npm run develop
 
 This is a book search engine app that seeds the data through an api, it's got a save function and login for users.
 
+
 ## Screenshot
 ![Alt text](book.png)
 
@@ -49,5 +50,8 @@ SOFTWARE.
 
 https://github.com/loltony79/Book-Search-Engine
 ## DEPLOY
+
+https://still-journey-11550-bb00a15f3be9.herokuapp.com/
+I have tried deploying many times, but it doesn't work. I have the application working in vscode, if you do npm run develop. The Code works fully.
 
 
